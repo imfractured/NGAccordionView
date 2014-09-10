@@ -2,6 +2,7 @@ NGAccordion Control:
 
 Example Usage: 
 
+//
 NGAccordionView *av = [[NGAccordionView alloc] initWithFrame:CGRectMake(49, 140, 924.5, 450)];
 [self.view addSubview:av];
 
